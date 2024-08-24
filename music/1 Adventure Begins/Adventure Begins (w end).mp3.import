@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b7atelbyjjl2v"
+path="res://.godot/imported/Adventure Begins (w end).mp3-9a03dfc7e2f862f132be5c63cdcf7342.mp3str"
+
+[deps]
+
+source_file="res://music/1 Adventure Begins/Adventure Begins (w end).mp3"
+dest_files=["res://.godot/imported/Adventure Begins (w end).mp3-9a03dfc7e2f862f132be5c63cdcf7342.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

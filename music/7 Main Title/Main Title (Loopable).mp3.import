@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://df6oa267aw0g1"
+path="res://.godot/imported/Main Title (Loopable).mp3-05ab26ffc11f8092209d51b689a03d47.mp3str"
+
+[deps]
+
+source_file="res://music/7 Main Title/Main Title (Loopable).mp3"
+dest_files=["res://.godot/imported/Main Title (Loopable).mp3-05ab26ffc11f8092209d51b689a03d47.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

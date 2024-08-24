@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bunfrvyvuqnpl"
+path="res://.godot/imported/Main Title (Loopable).wav-a2bd1598ae89d7c902cd5442017e318a.sample"
+
+[deps]
+
+source_file="res://music/7 Main Title/Main Title (Loopable).wav"
+dest_files=["res://.godot/imported/Main Title (Loopable).wav-a2bd1598ae89d7c902cd5442017e318a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

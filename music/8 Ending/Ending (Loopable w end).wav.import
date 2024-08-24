@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cys34xn87px5m"
+path="res://.godot/imported/Ending (Loopable w end).wav-904848bfa7bd9fbee0e9a7b8e5036a41.sample"
+
+[deps]
+
+source_file="res://music/8 Ending/Ending (Loopable w end).wav"
+dest_files=["res://.godot/imported/Ending (Loopable w end).wav-904848bfa7bd9fbee0e9a7b8e5036a41.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

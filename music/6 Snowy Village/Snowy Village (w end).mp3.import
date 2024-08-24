@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cio3kc1vb5dqd"
+path="res://.godot/imported/Snowy Village (w end).mp3-164c0be8497cb3831162f1c32b65c0e8.mp3str"
+
+[deps]
+
+source_file="res://music/6 Snowy Village/Snowy Village (w end).mp3"
+dest_files=["res://.godot/imported/Snowy Village (w end).mp3-164c0be8497cb3831162f1c32b65c0e8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

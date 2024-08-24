@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bc7bqv86m84gs"
+path="res://.godot/imported/Bizzare Character (Loopable).mp3-5eaf09988cf132103c0c1eb890e7bf58.mp3str"
+
+[deps]
+
+source_file="res://music/Extra 1 Bizzarre Character/Bizzare Character (Loopable).mp3"
+dest_files=["res://.godot/imported/Bizzare Character (Loopable).mp3-5eaf09988cf132103c0c1eb890e7bf58.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

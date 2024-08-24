@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dw7j1bc723oyh"
+path="res://.godot/imported/Common Enemy (w end).wav-be9edf44c78cb0d35c95e29bf0f27aa8.sample"
+
+[deps]
+
+source_file="res://music/2 Common Enemy/Common Enemy (w end).wav"
+dest_files=["res://.godot/imported/Common Enemy (w end).wav-be9edf44c78cb0d35c95e29bf0f27aa8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
