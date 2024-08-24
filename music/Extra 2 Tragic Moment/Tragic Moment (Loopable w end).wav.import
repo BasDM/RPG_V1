@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cf3tm47trgb7n"
+path="res://.godot/imported/Tragic Moment (Loopable w end).wav-d1822dfc837e39bdda54350e9af9eba5.sample"
+
+[deps]
+
+source_file="res://music/Extra 2 Tragic Moment/Tragic Moment (Loopable w end).wav"
+dest_files=["res://.godot/imported/Tragic Moment (Loopable w end).wav-d1822dfc837e39bdda54350e9af9eba5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

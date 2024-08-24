@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdon5xgs7pmmo"
+path="res://.godot/imported/Common Enemy (Loopable).mp3-b1ec2b510fc8e735cb76575916b6a421.mp3str"
+
+[deps]
+
+source_file="res://music/2 Common Enemy/Common Enemy (Loopable).mp3"
+dest_files=["res://.godot/imported/Common Enemy (Loopable).mp3-b1ec2b510fc8e735cb76575916b6a421.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

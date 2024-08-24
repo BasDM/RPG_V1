@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://came6gexuebsk"
+path="res://.godot/imported/Common Enemy (w end).mp3-01a1ca817a6245ad3250294169474c23.mp3str"
+
+[deps]
+
+source_file="res://music/2 Common Enemy/Common Enemy (w end).mp3"
+dest_files=["res://.godot/imported/Common Enemy (w end).mp3-01a1ca817a6245ad3250294169474c23.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

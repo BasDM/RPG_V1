@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bvhpaxddfrh7j"
+path="res://.godot/imported/First Dungeon (Loopable).mp3-6f4b1d4c34386ce1d14b0ea50b41b5e8.mp3str"
+
+[deps]
+
+source_file="res://music/3 First Dungeon/First Dungeon (Loopable).mp3"
+dest_files=["res://.godot/imported/First Dungeon (Loopable).mp3-6f4b1d4c34386ce1d14b0ea50b41b5e8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://drfdgojgya0cb"
+path="res://.godot/imported/Adventure Begins (w end).wav-c5642f24f1f7a059a926dd19ff11fbab.sample"
+
+[deps]
+
+source_file="res://music/1 Adventure Begins/Adventure Begins (w end).wav"
+dest_files=["res://.godot/imported/Adventure Begins (w end).wav-c5642f24f1f7a059a926dd19ff11fbab.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

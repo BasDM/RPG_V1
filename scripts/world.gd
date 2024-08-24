@@ -1,6 +1,8 @@
 extends Node2D
 
 func _ready():
+	MusicController.play_music()
+	
 	if global.game_first_loadin == true:
 		$player.position.x = global.player_start_posX
 		$player.position.y = global.player_start_posY

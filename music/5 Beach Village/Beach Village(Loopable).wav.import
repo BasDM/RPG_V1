@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c7fcdta7o5rj5"
+path="res://.godot/imported/Beach Village(Loopable).wav-1225190d05d8f3429cdbdb07b4cf6d19.sample"
+
+[deps]
+
+source_file="res://music/5 Beach Village/Beach Village(Loopable).wav"
+dest_files=["res://.godot/imported/Beach Village(Loopable).wav-1225190d05d8f3429cdbdb07b4cf6d19.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
